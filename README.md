@@ -12,8 +12,7 @@
 - 📱 Building Android apps — shipped my first app, AI-assisted, as a beginner developer
 - 🛡️ Deep-diving into **web application security** — completed the full **OWASP Top 10 (2021)**
 - 🔍 Built a **subdomain recon tool** for reconnaissance — polishing it for public release
-- 🤝 Founder of **[Cham Team](https://github.com/cham-team)** — *Coders Hacking And Making* — named after the Hoor-al-Azim reed marshes of Khuzestan
-
+- 🤝 Founder of **[Cham Team](https://github.com/cham-team)** — *Coders Hacking And Making*
 ### 🌱 Currently learning
 
 - Practical Bash & Linux for offensive security workflows
