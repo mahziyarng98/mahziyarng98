@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mahziyar</h1> <h3 align="center">Android Developer · Web Security Learner · Bug Bounty Hunter in progress</h3> <p align="center"> 🐦 On X (Twitter) as <b>Colonel of this t0wn</b> — hacking, security, and a bit of satire </p>
+🔭 What I'm working on
+📱 Building Android apps — shipped my first app, AI-assisted, as a beginner developer
+🛡️ Deep-diving into web application security — completed the full OWASP Top 10 (2021)
+🔍 Built a subdomain recon tool for reconnaissance — polishing it for public release
+🤝 Founder of Cham Team — Coders Hacking And Making — named after the Hoor-al-Azim reed marshes of Khuzestan
+🌱 Currently learning
+Practical Bash & Linux for offensive security workflows
+JavaScript for the web (DOM, cookies, events, fetch) — bug-hunting focused
+Networking fundamentals, Nginx & Apache internals
+Building a personal, per-vulnerability-type methodology (starting with XSS)
+🧰 Tools & interests
 
-<!--
-**mahziyarng98/mahziyarng98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recon · Subdomain Enumeration · OSINT · Bug Bounty · Android (Kotlin/Java)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Pinned work
+🔎 Recon Tool — subdomain scanning & enumeration (coming soon)
+📝 Bug hunting notes & write-ups (coming soon)
+📫 Find me
+X (Twitter): Colonel of this t0wn
+GitHub Org: cham-team
+<p align="center"><i>Building in public, one vuln and one app at a time.</i></p>
