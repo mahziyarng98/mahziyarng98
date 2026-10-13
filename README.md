@@ -30,7 +30,6 @@ I test only with written authorization and an agreed scope.
 | Project | What it is |
 |---|---|
 | [**nextjs-pentest-lab**](https://github.com/mahziyarng98/nextjs-pentest-lab) | Deliberately vulnerable Next.js shop with a full pentest report: 7 findings (IDOR, broken access control, SQL injection, XSS and more) and a `fixed` branch showing every remediation. |
-| [**fliprtl-firefox**](https://github.com/mahziyarng98/fliprtl-firefox) | Firefox extension that flips any page between RTL and LTR, with per-site memory. Documented permission rationale, no network requests, SHA-pinned release pipeline. |
 | [**omarchy-gravity**](https://github.com/mahziyarng98/omarchy-gravity) | Orbital app launcher for the Omarchy desktop shell, ranked by how often you actually launch each app. Has tests and an external contributor. |
 | [**jalali-calendar**](https://github.com/mahziyarng98/jalali-calendar) | Jalali (Solar Hijri) date, clock, and Iranian holidays for the Omarchy bar, with tested date conversion. |
 
